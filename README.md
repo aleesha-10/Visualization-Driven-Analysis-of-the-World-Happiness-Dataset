@@ -185,4 +185,3 @@ This analysis highlights three major findings:
 This project demonstrates how **data visualization transforms raw data into meaningful insights**, making complex global patterns easier to understand and communicate.
 
 ---
-By: aleesha-10, 
